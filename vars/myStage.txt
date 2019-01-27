@@ -1,0 +1,1 @@
+Creates stage with given name and runs provided code inside.

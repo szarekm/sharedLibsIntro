@@ -1,0 +1,2 @@
+Returns patient name and surname.
+Data should be passed as Map.

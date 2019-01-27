@@ -1,0 +1,4 @@
+The log variable provides convinient wrapping for following events:
+- INFO
+- WARNING
+- ERROR
