@@ -3,5 +3,5 @@ def call(String name = 'World') {
 }
 
 def test(message) {
-    log.info 'test'
+    log.info message
 }
