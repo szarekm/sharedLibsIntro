@@ -9,3 +9,7 @@ def info(message) {
 def warning(message) {
     echo "WARNING: ${message}"
 }
+
+def test(message) {
+    info(message)
+}
